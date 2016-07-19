@@ -20,4 +20,4 @@ public class LeapYear{
 		LeapYear anotherYear=new LeapYear(2000);
 		System.out.println(anotherYear.checkLeapYear());
 	}
-	
+}	
